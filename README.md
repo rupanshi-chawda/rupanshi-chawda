@@ -42,6 +42,6 @@ My mornings usually start with a good novel and ends up with my laptop, coding m
 
 <div align="center">
 
-### Spread some ❤️ by contributing and starring some of the repositories!
+#### Spread some ❤️ by contributing and starring some of the repositories!
 
 </div>
