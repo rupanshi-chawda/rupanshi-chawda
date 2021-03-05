@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHdmJe-HWv0nQ/profile-displaybackgroundimage-shrink_350_1400/0/1598955325048?e=1614816000&v=beta&t=XGPBhuUUrmlatYDvpd7B4X783NBswxFGevpxXZS2WLM" > </br>
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQHdmJe-HWv0nQ/profile-displaybackgroundimage-shrink_350_1400/0/1598955325048?e=1620259200&v=beta&t=3-gSJQE2Ot6wyDUP5bwEtODyRWvi_QGl2f5r9YdTCNw" > </br>
 ## Heya! I am Rupanshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img src="https://komarev.com/ghpvc/?username=rupanshi-chawda&label=Views&color=blue&style=plastic" alt="rupanshi-chawda" /> <a href="https://www.linkedin.com/in/rupanshi-chawda-a17372193/">
