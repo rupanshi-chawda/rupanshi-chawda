@@ -20,7 +20,7 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/l1Gmd4h3zwW4g/giphy.gif" width="450" height="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l1Gmd4h3zwW4g/giphy.gif" width="470" height="220" />
 
 - 🔭 I’m currently working with [OpenCV and C++].(https://github.com/GFG-CLUB-KIIT/TimeLapse)
 - 🌱 I’m currently learning more about GOlang.
@@ -29,6 +29,7 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 - 📫 How to reach me: [Wattpad - @TheRavenHairedGirl](https://www.wattpad.com/user/TheRavenHairedGirl)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I always gravitate towards Desiging stuff but end up Coding it too.
+- 📁 [Resume](https://drive.google.com/file/d/1g48BOG675kaSxnba3NXKuvIHpNdh7Q_n/view?usp=sharing)
 
  </br>
  <h2>Languages and Tools 🛠️</h2> 
