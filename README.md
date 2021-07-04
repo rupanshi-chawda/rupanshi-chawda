@@ -29,7 +29,7 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 - 📫 How to reach me: [Wattpad - @TheRavenHairedGirl](https://www.wattpad.com/user/TheRavenHairedGirl)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I always gravitate towards Desiging stuff but end up Coding it too.
-- 📁 [Resume](https://drive.google.com/file/d/1g48BOG675kaSxnba3NXKuvIHpNdh7Q_n/view?usp=sharing)
+- 📁 [Resume](https://drive.google.com/file/d/1zMPT0voGT0kyyIP-zP5Pn6m9bHY7eEW7/view?usp=sharing)
 
  </br>
  <h2>Languages and Tools 🛠️</h2> 
