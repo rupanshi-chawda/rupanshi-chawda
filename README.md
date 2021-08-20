@@ -23,7 +23,7 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l1Gmd4h3zwW4g/giphy.gif" width="470" height="220" />
 
 - 🔭 I’m currently working with [OpenCV and C++].(https://github.com/GFG-CLUB-KIIT/TimeLapse)
-- 🌱 I’m currently learning more about GOlang.
+- 🌱 I’m currently learning more about Golang.
 - 👯 I’m looking to collaborate more on Open Source Projects.
 - 💬 Ask me about Flutter, XD or any other Tech stuff.
 - 📫 How to reach me: [Wattpad - @TheRavenHairedGirl](https://www.wattpad.com/user/TheRavenHairedGirl)
