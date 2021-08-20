@@ -1,4 +1,4 @@
-<div align="center" > <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHdmJe-HWv0nQ/profile-displaybackgroundimage-shrink_350_1400/0/1598955325048?e=1626912000&v=beta&t=Kxq_glSLrXS2M994g1pwyMlrYoWFSQYNj5Q6kWyg5bE" > </br> </div>
+<div align="center" > <img src="https://github.com/rupanshi-chawda/rupanshi-chawda/blob/146e86edda106abefcc264e1ce57fffccf444890/1598955325048.jpg" > </br> </div>
 
 <h1 align="center">  Heya! I am Rupanshi Chawda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
