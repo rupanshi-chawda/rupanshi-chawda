@@ -26,10 +26,10 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 - 🌱 I’m currently learning more about Golang.
 - 👯 I’m looking to collaborate more on Open Source Projects.
 - 💬 Ask me about Flutter, XD or any other Tech stuff.
-- 📫 How to reach me: [Wattpad - @TheRavenHairedGirl](https://www.wattpad.com/user/TheRavenHairedGirl)
+- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/rupanshi-chawda)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I always gravitate towards Desiging stuff but end up Coding it too.
-- 📁 [Resume](https://drive.google.com/file/d/1zMPT0voGT0kyyIP-zP5Pn6m9bHY7eEW7/view?usp=sharing)
+- 📁 [Resume](https://drive.google.com/file/d/1ocm6CQDwGiBm57VrGczMfsvH0Knecq_z/view)
 
  </br>
  <h2>Languages and Tools 🛠️</h2> 
