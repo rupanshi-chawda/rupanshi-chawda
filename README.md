@@ -1,6 +1,15 @@
-<div align="center" > <img src="https://github.com/rupanshi-chawda/rupanshi-chawda/blob/146e86edda106abefcc264e1ce57fffccf444890/1598955325048.jpg" > </br> </div>
+<div align="center" >
+ 
+ ![rupanshi chawda D E V E L O P E R (1)](https://user-images.githubusercontent.com/58527347/147630076-b7afa853-c0b7-4b57-ad84-aa7ef3cfe09b.png) 
+ 
+ </br> </div>
 
-<h1 align="center">  Heya! I am Rupanshi Chawda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">  
+ 
+ Heya! I am [Rupanshi Chawda](https://www.rowenac.tech/) 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+ 
+</h1>
 
 <h3 align="center">𝙰 𝚃𝚎𝚌𝚑-𝙵𝚊𝚗𝚊𝚝𝚒𝚌 𝚊𝚗𝚍 𝚊𝚗 𝙰𝚟𝚒𝚍 𝚛𝚎𝚊𝚍𝚎𝚛! 🌈</h3>
 
