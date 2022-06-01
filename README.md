@@ -7,7 +7,7 @@
 <h1 align="center">  
  
  Heya! I am [Rupanshi Chawda](https://www.rowenac.tech/) 
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px"> 
  
 </h1>
 
