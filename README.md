@@ -15,8 +15,8 @@
 
 <div align="center" >
 My mornings usually start with a good Novel and ends up with my Laptop, Coding my nights away. <br>
-I am a Software developer 👩‍💻 from India, currently pursuing Computer Science from KIIT Univeristy. <br>
-I like Desiging things, Building them, Exploring ways to improve their efficiency and performance. <br>
+I am a Software Developer 👩‍💻 from India, currently pursuing Computer Science from KIIT Univeristy. <br>
+I like Desiging things, Building them Securely & Exploring ways to improve their efficiency and performance. <br>
 Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Innovation. <br>
 </div> 
 <br>
@@ -26,7 +26,7 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
   <img align="left" alt="Rupanshi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.rowenac.tech/">
- <img align="left" alt="Rupanshi's website" width="25px" src="https://github.com/rupanshi-chawda/rupanshi-chawda/blob/main/rowenac.png" />
+ <img align="left" alt="Rupanshi's Website" width="25px" src="https://github.com/rupanshi-chawda/rupanshi-chawda/blob/main/rowenac.png" />
 </a>
 <a href="https://leetcode.com/Raven_/">
   <img align="left" alt="Rupanshi's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
@@ -35,14 +35,14 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l1Gmd4h3zwW4g/giphy.gif" width="470" height="220" />
 
-- 🔭 I’m currently working with Kubernetes
-- 🌱 I’m currently learning more about Docker.
+- 🔭 I’m currently working with Java and SpringBoot
+- 🌱 I’m currently learning more about Microservices.
 - 👯 I’m looking to collaborate more on Open Source Projects.
-- 💬 Ask me about Flutter, XD or any other Tech stuff.
+- 💬 Ask me about Adobe XD or any other Tech stuff.
 - 📫 How to reach me: [rupanshi@mail](mailto:1905629@kiit.ac.in)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I always gravitate towards Desiging stuff but end up Coding it too.
-- 📁 [Resume](https://drive.google.com/file/d/1ocm6CQDwGiBm57VrGczMfsvH0Knecq_z/view)
+- 📁 [Resume](https://drive.google.com/file/d/1cgoW4YYZT3Dss6V2kpSeDBUvkCN3wWQ7/view?usp=sharing)
 
  </br>
  <h2>Languages and Tools 🛠️</h2> 
@@ -81,9 +81,9 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rupanshi-chawda&theme=dracula" width="45%" >
 
-
+</br>
 <div align="center">
 
-#### Spread some ❤️ by contributing and starring some of the repositories!
+#### May the Odds be ever in your Favour ❤️ 
 
 </div>
