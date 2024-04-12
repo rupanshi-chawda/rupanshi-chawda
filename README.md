@@ -6,7 +6,7 @@
 
 <h1 align="center">  
  
- Heya! I am [Rupanshi Chawda](https://www.rowenac.tech/) 
+ Heya! I am [Rupanshi Chawda](https://portfolio-rupanshi-chawda.vercel.app/) 
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="35px"> 
  
 </h1>
@@ -25,7 +25,7 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 <img src="https://komarev.com/ghpvc/?username=rupanshi-chawda&label=Views&color=blue&style=plastic" alt="rupanshi-chawda" /> ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) <a href="https://www.linkedin.com/in/rupanshi-chawda/">
   <img align="left" alt="Rupanshi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.rowenac.tech/">
+<a href="https://portfolio-rupanshi-chawda.vercel.app/">
  <img align="left" alt="Rupanshi's Website" width="25px" src="https://github.com/rupanshi-chawda/rupanshi-chawda/blob/main/rowenac.png" />
 </a>
 <a href="https://leetcode.com/Raven_/">
@@ -35,13 +35,13 @@ Supporter for 📜 Open Source, ☁️ Cloud computing, 🚀 DevOps and 🆕 Inn
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l1Gmd4h3zwW4g/giphy.gif" width="470" height="220" />
 
-- 🔭 I’m currently working with Java and SpringBoot
-- 🌱 I’m currently learning more about Microservices.
+- 🔭 Working with Java and SpringBoot
+- 🌱 Learning more about Log-Structured Storage.
 - 👯 I’m looking to collaborate more on Open Source Projects.
-- 💬 Ask me about Adobe XD or any other Tech stuff.
+- 💬 Ask me about Java, REST api's and UX.
 - 📫 How to reach me: [rupanshi@mail](mailto:1905629@kiit.ac.in)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I always gravitate towards Desiging stuff but end up Coding it too.
+- ⚡ Fun fact: I always gravitate towards Designing stuff but end up Coding it too.
 - 📁 [Resume](https://drive.google.com/file/d/1cgoW4YYZT3Dss6V2kpSeDBUvkCN3wWQ7/view?usp=sharing)
 
  </br>
